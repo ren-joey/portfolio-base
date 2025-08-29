@@ -7,6 +7,9 @@ import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.List;
+import java.util.Locale;
+
 @Entity
 @Getter
 @Setter
